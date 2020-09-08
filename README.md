@@ -16,6 +16,7 @@ We would like you to add in the following features to improve this tracker.
 
 ### Guidelines
 
+- All that is needed to run the project is "npm install" followed by "npm start"
 - All of the data should be retrieved using the API available [here](https://corona.lmao.ninja/docs/#/).  This is a public API without usage restrictions.
 - You are free to make any changes you like to the pre-existing code.
 - You are also free to add in additional packages as needed; we recommend using [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) for the graphing functionality.
